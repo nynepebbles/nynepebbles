@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ![Lua](https://img.shields.io/badge/Lua-000080?style=flat&logo=lua&logoColor=white)
 ![Nix](https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white)
 
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 ![GNU Make](https://img.shields.io/badge/Makefile-777777?style=flat)
 

@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![profile views](https://komarev.com/ghpvc/?username=suddencollection&style=flat&color=313131&label=views)]
+
 ## 🛠️ Languages & Technologies
 
 ![C](https://img.shields.io/badge/C-555555?style=flat&logo=c&logoColor=white)

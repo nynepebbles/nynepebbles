@@ -18,7 +18,7 @@
 
 - 🎮 [VKEngine](https://github.com/nynepebbles/vkengine): Lightweight 3D rendering engine built from scratch using C++ and the Vulkan API.
 - 🕸️ [Web Crawler Grapher](https://github.com/nynepebbles/crawler): Web crawler written in modern C++, with visual graphs generation.
-- ⚙️ [Dotfiles](https://github.com/nynepebbles/dotfiles): My personal development environment and desktop configuration, built for NixOS.
+- ⚙️ [Dotfiles](https://github.com/nynepebbles/dotfiles): Personal development environment and desktop configuration, built for NixOS.
 
 ## 📊 GitHub Stats
 <!--

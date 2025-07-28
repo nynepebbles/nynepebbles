@@ -1,4 +1,4 @@
-# Hi there, I'm Nyne! 👋
+# Hi there! 👋
 
 <!--
  programmer passionate about building efficient, low-level solutions and exploring the intersection of art and code.

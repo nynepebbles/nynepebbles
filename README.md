@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**suddencollection/suddencollection** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nynepebbles/nynepebbles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![profile views](https://komarev.com/ghpvc/?username=suddencollection&style=flat&color=313131&label=views)
+![profile views](https://komarev.com/ghpvc/?username=nynepebbles&style=flat&color=313131&label=views)
 
 ## 🛠️ Languages & Technologies
 

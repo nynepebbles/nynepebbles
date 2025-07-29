@@ -29,8 +29,12 @@
 ## 🌟 Interests & Philosophy
 
 - **Systems Programming**: Building efficient, low-level solutions that make the most of hardware capabilities
+<!--
 - **Graphics Programming**: Fascinated by the intersection of mathematics, art, and computer science
+-->
 - **Open Source**: Believer in collaborative development and knowledge sharing
+ <!--
+ -->
 - **Clean Code**: Advocate for readable, maintainable, and self-documented code
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nynepebbles&theme=github-compact&hide_border=true&bg_color=0d1117)

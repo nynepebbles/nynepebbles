@@ -28,5 +28,5 @@
 - **Open Source**: Believer in collaborative development and knowledge sharing
 - **Clean Code**: Advocate for readable, maintainable, and self-documented code
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nynepebbles&theme=github-compact&hide_border=true&bg_color=0d1117)
+<!--![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=nynepebbles&theme=github-compact&hide_border=true&bg_color=0d1117)-->
 ![profile views](https://komarev.com/ghpvc/?username=nynepebbles&style=flat&color=313131&label=views)

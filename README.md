@@ -1,4 +1,4 @@
-<!--<p align="center"><em>Sometimes the silence has syntax.</em></p>-->
+<p align="center"><em>A line is a dot that went for a walk.</em></p>
 
 ## Technologies & Tools
 

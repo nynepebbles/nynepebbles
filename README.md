@@ -1,10 +1,6 @@
-# Hi there! 👋
+<!--<p align="center"><em>Sometimes the silence has syntax.</em></p>-->
 
-<!--
- programmer passionate about building efficient, low-level solutions and exploring the intersection of art and code.
--->
-
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 | Category | Technologies |
 |----------|-------------|
@@ -14,19 +10,19 @@
 | **Shells & Scripting** | ![Fish](https://img.shields.io/badge/shell-fish-3EDC81?logo=fish&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff) |
 | **Documentation** | ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white) |
 
-## 🎯 Featured Projects
+## Featured Projects
 
-- 🎮 [VKEngine](https://github.com/nynepebbles/vkengine): Lightweight 3D rendering engine built from scratch using C++ and the Vulkan API.
-- 🕸️ [Web Crawler Grapher](https://github.com/nynepebbles/crawler): Web crawler written in modern C++, with visual graphs generation.
-- ⚙️ [Dotfiles](https://github.com/nynepebbles/dotfiles): Personal development environment and desktop configuration, built for NixOS.
+- [VKEngine](https://github.com/nynepebbles/vkengine): Lightweight 3D rendering engine built from scratch using C++ and the Vulkan API.
+- [Web Crawler Grapher](https://github.com/nynepebbles/crawler): Web crawler written in modern C++, with visual graphs generation.
+- [Dotfiles](https://github.com/nynepebbles/dotfiles): Personal development environment and desktop configuration, built for NixOS.
 
-## 📊 GitHub Stats
+## GitHub Stats
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nynepebbles&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nynepebbles&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
-## 🌟 Interests & Philosophy
+## Interests & Philosophy
 
 - **Systems Programming**: Building efficient, low-level solutions that make the most of hardware capabilities
 - **Open Source**: Believer in collaborative development and knowledge sharing
